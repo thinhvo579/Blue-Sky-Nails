@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Baskerville Old Face';
+    src: url('BaskOldFace.eot');
+    src: url('BaskOldFace.eot?#iefix') format('embedded-opentype'),
+        url('BaskOldFace.woff2') format('woff2'),
+        url('BaskOldFace.woff') format('woff'),
+        url('BaskOldFace.ttf') format('truetype'),
+        url('BaskOldFace.svg#BaskOldFace') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
